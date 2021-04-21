@@ -1,0 +1,13 @@
+{
+  "name": "@poc-oao/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "@poc-oao/my-dep-2": "1.0.0",
+    "chalk": "^4.1.1"
+  }
+}
